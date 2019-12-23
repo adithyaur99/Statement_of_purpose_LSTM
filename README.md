@@ -19,6 +19,8 @@ python Training.py
 
 I have attached a pretrained model, you can use the same to run your inference
 
+sop_text_generator.h5
+
 
 ## Inference
 Add your seed text line in the inference.py code
